@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chanaru Sampath</h1>
 <h3 align="center">Building Scalable Web Applications with JavaScript: Frontend, Backend, and Everything in Between</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanaru-sampath" alt="chanaru-sampath" /></a> </p>
-
 - 💬 Ask me about **ReactJS, NextJS, NodeJS, JavaScript, TypeScript, Firebase**
 
 - 📫 How to reach me **chanarusampath@gmail.com**
